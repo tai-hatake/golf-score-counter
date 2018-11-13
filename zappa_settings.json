@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "app_function": "lambda.app",
+        "aws_region": "us-east-2",
+        "profile_name": "default",
+        "project_name": "score-counter",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-2txhj5ihk",
+        "apigateway_enabled": false
+    }
+}
